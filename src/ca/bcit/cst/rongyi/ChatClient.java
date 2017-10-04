@@ -12,7 +12,7 @@ import java.util.Scanner;
  * The client of the chat.
  * 
  * @author Rongyi Chen
- * @version 0.1
+ * @version 0.2
  *
  */
 public class ChatClient {
